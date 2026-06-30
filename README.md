@@ -5,3 +5,4 @@ Day 2 - 08 Jun 2026
 Day 3 - 21 Jun 2026
 Day 4 - 25 Jun 2026
 Day 5 - 26 Jun 2026
+Day 6 - 01 Jul 2026
